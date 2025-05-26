@@ -112,6 +112,10 @@ infovqa-v1 -> put under data/
 VQAv2_train -> put under data/
 open-llava-next -> put under data/Open-LLaVA-NeXT/, merge with an existing folder of same name
 ```
+### Projectors
+Download projects from huggingface:
+* For [LaViDA LLaDA](https://huggingface.co/jacklishufan/lavida-llada-1.0-stage1)
+* For [LaViDA Dream](https://huggingface.co/jacklishufan/lavida-dream-1.0-stage1)
 
 ### Launch Scripts
 
