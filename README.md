@@ -136,7 +136,7 @@ We observed a bug with deepspeed Zero-3 that it breaks inference for validation.
 
 ### Where is Reasoning Data used in Stage 3
 
-It can be fund in the huggingface [collection](https://huggingface.co/collections/jacklishufan/lavida-10-682ecf5a5fa8c5df85c61ded)
+It can be found in the huggingface [collection](https://huggingface.co/collections/jacklishufan/lavida-10-682ecf5a5fa8c5df85c61ded)
 
 ### How to launch FIM training
 
