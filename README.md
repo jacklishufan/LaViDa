@@ -67,7 +67,7 @@ python predict_fim.py
 
 (speed measurement conducted with generation length=32 and steps=16)
 
-The evaluation scrips are under `eval` folder. Please use the following script to reproduce the main results on MMMU.
+The evaluation scripts are under `eval` folder. Please use the following script to reproduce the main results on MMMU.
 
 ```
 bash eval/run.sh lavida-ckpts/lavida-llada-hd --tasks mmmu_val # for LaViDa-LLaDa
