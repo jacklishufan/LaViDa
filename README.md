@@ -164,3 +164,20 @@ The scripts is in `scripts/train/exps/cluster/llada-hd-llada-s3-fim.sh`
 ### Acknowledgements
 
 This repo is largely based on [LLaVa-Next](https://github.com/LLaVA-VL/LLaVA-NeXT). We use [LMMS-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for evaluations. 
+
+### Citation
+
+```
+@inproceedings{lilavida,
+  title={LaViDa: A Large Diffusion Model for Vision-Language Understanding},
+  author={Li, Shufan and Kallidromitis, Konstantinos and Bansal, Hritik and Gokul, Akash and Kato, Yusuke and Kozuka, Kazuki and Kuen, Jason and Lin, Zhe and Chang, Kai-Wei and Grover, Aditya},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
+@article{li2025lavida,
+  title={Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation},
+  author={Li, Shufan and Gu, Jiuxiang and Liu, Kangning and Lin, Zhe and Wei, Zijun and Grover, Aditya and Kuen, Jason},
+  journal={arXiv preprint arXiv:2509.19244},
+  year={2025}
+}
+```
