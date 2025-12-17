@@ -4,7 +4,11 @@
 
 ## News
 
+**Dec 16 2025** We released the [preprint](https://arxiv.org/abs/2512.14008) and  [Project Page](https://homepage.jackli.org/projects/sparse-lavida/index.html) for **Sparse-LaViDa**, an efficient optimization technique for training and sampling from unified multi-modal dLLMs based on LaViDa. 
+
 **Oct 2025:** We opensourced [LaViDa-O](https://github.com/adobe-research/LaVida-O), a state-of-the-art unified multi-modal built on LaViDa
+
+**Sep 2025**  We released the preprint for [LaViDa-O](https://arxiv.org/abs/2509.19244), an extension of LaViDa to visual generation tasks.
 
 **Aug 2025:** Our work was accepted to NeurIPS 2025 as a Spotlight Paper!
 
