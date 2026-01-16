@@ -10,7 +10,6 @@ IMG_PATH=data/Open-LLaVA-Next
 ############### Pretrain ################
 export ALWASY_DO_2DPOOL=1 
 
-PROMPT_VERSION="qwen_1_5"
 PROMPT_VERSION="dream"
 
 MID_RUN_NAME="lavida-stage2-dream"
